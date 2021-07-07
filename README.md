@@ -3,7 +3,7 @@
   <img src="banner.png" >
 </p>
 
-## José Plácido
+# José Plácido
 <sub>*Assistente de BI</sub>
 
 Hoje, atuo como Analista de Dados e estudo a Ciência de Dados. Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística, Machine Learning e Negócios, com o objetivo de entender melhor como os dados se comportam e extrair informações valiosas deles.
