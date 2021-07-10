@@ -19,6 +19,7 @@ Veja os projetos publicados:
 
 * **Análise de Churn de clientes: http://encurtador.com.br/bOR01** 
 * **Pesquisa de preços: http://encurtador.com.br/dhkwH** 
+* **Mini projeto de análise de dados: http://encurtador.com.br/tNPR8**
 
 ## Dashboards (Power BI):
 
