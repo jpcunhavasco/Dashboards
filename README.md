@@ -31,7 +31,7 @@ Veja os projetos publicados:
 ## Dashboards (Data Studio):
 
 * **Dashboard Google analitics:** 
-* * **Dashboard Logística:** 
+* **Dashboard Logística:** 
 
 
 ---
