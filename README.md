@@ -18,7 +18,7 @@ Hoje, atuo com análise de dados e na construção de dashboards no Power BI e n
 Veja os projetos publicados:
 
 * **Análise de Churn de clientes: http://encurtador.com.br/bOR01** 
-* **Projeção de vendas com Python:** 
+* **Pesquisa de preços: http://encurtador.com.br/dhkwH** 
 
 ## Dashboards (Power BI):
 
