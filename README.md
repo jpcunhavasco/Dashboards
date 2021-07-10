@@ -28,6 +28,11 @@ Veja os projetos publicados:
 * **Dashboard Vendas:** 
 * **Dashboard Comercial:** 
 
+## Dashboards (Data Studio):
+
+* **Dashboard Google analitics:** 
+* * **Dashboard Logística:** 
+
 
 ---
 
