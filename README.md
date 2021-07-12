@@ -25,7 +25,7 @@ Veja os projetos publicados:
 
 * **Dashboard Logística: https://tinyurl.com/u6dzwv7k** 
 * **Performance de produtos: https://tinyurl.com/ta83veun** 
-* **Dashboard Vendas:** 
+* **Dashboard de Estoque: https://tinyurl.com/w3nw3dsc** 
 * **Dashboard Financeiro: ** 
 
 ## Dashboards (Data Studio):
