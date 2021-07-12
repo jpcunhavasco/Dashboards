@@ -23,7 +23,7 @@ Veja os projetos publicados:
 
 ## Dashboards (Power BI):
 
-* **Dashboard Logística:** 
+* **Dashboard Logística: https://tinyurl.com/u6dzwv7k** 
 * **Dashboard Netflix:** 
 * **Dashboard Vendas:** 
 * **Dashboard Financeiro: ** 
