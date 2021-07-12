@@ -17,9 +17,9 @@ Hoje, atuo com análise de dados e na construção de dashboards no Power BI e n
 ## Projetos:
 Veja os projetos publicados:
 
-* **Análise de Churn de clientes: ** 
+* **Análise de Churn de clientes: https://bityli.com/oIuZ1** 
 * **Pesquisa de preços: ** 
-* **Mini projeto de análise de dados: **
+* **Mini projeto de análise de dados: https://bityli.com/HrRlm**
 
 ## Dashboards (Power BI):
 
