@@ -26,7 +26,7 @@ Veja os projetos publicados:
 * **Dashboard Logística:** 
 * **Dashboard Netflix:** 
 * **Dashboard Vendas:** 
-* **Dashboard Comercial:** 
+* **Dashboard Financeiro: ** 
 
 ## Dashboards (Data Studio):
 
