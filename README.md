@@ -29,7 +29,7 @@ Veja os projetos publicados:
 * **Dashboard de Estoque: https://tinyurl.com/w3nw3dsc** 
 * **Dashboard Vendas e Devoluções: https://l1nq.com/zR3n7**
 * **Dashboard Vendas de Veículos: https://l1nq.com/FVG5m**
-* **Dashboard Vendas e Devoluções: ** 
+* **Dashboard Vendas e Devoluções: https://ury1.com/s9PY7** 
 
 
 ---
