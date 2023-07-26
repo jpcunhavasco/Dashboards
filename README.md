@@ -29,7 +29,10 @@ Veja os projetos publicados:
 * **Dashboard de Estoque: https://tinyurl.com/w3nw3dsc** 
 * **Dashboard Vendas e Devoluções: https://l1nq.com/zR3n7**
 * **Dashboard Vendas de Veículos: https://l1nq.com/FVG5m**
-* **Dashboard Visualização de Mapas: https://ury1.com/s9PY7** 
+* **Dashboard Visualização de Mapas: https://ury1.com/s9PY7**
+*  **Dashboard Pokemon: https://ury1.com/20qHT**
+*  **Dashboard Ayrton Senna: https://urx1.com/PEWts**
+*  **Dashboard Análise OTIF: https://l1nq.com/eOqyU**
 
 
 ---
