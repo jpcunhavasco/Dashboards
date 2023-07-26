@@ -8,7 +8,7 @@
 
 Hoje, atuo com análise de dados e na construção de dashboards no Power BI e no Data Studio. Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística e Negócios, com o objetivo de entender melhor como os dados se comportam e extrair informações valiosas deles.
 
-**Background in:** Python, Pentaho, Power BI e Análise de Dados.
+**Background in:** Python, Pyspark, Sql, Power BI, Excel.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-vasconcelos-9677a5171/)
@@ -30,8 +30,7 @@ Veja os projetos publicados:
 
 ## Dashboards (Data Studio):
 
-* **Dashboard Google analitics:** 
-* **Dashboard Logística:** 
+* **Dashboard Google analitics:**  
 
 
 ---
