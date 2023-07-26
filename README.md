@@ -23,7 +23,7 @@ Veja os projetos publicados:
 
 ## Dashboards (Power BI):
 
-* **Dashboard Faturamento: https://urx1.com/wgkfM** 
+* **Dashboard Faturamento: https://urx1.com/gyddT** 
 * **Dashboard Logística: https://tinyurl.com/u6dzwv7k** 
 * **Performance de produtos: https://tinyurl.com/ta83veun** 
 * **Dashboard de Estoque: https://tinyurl.com/w3nw3dsc** 
