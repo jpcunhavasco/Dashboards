@@ -33,6 +33,7 @@ Veja os projetos publicados:
 *  **Dashboard Pokemon: https://ury1.com/20qHT**
 *  **Dashboard Ayrton Senna: https://urx1.com/PEWts**
 *  **Dashboard Análise OTIF: https://l1nq.com/eOqyU**
+*  **Dashboard RH: https://urx1.com/1ZQPu**
 
 
 ---
