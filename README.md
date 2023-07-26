@@ -28,10 +28,6 @@ Veja os projetos publicados:
 * **Dashboard de Estoque: https://tinyurl.com/w3nw3dsc** 
 * **Dashboard Financeiro: ** 
 
-## Dashboards (Data Studio):
-
-* **Dashboard Google analitics:**  
-
 
 ---
 
