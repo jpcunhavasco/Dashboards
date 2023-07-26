@@ -19,7 +19,7 @@ Veja os projetos publicados:
 
 * **Análise de Churn de clientes: https://l1nq.com/HAtRo** 
 * **Pesquisa de preços: https://bit.ly/3hwA663** 
-* **Mini projeto de análise de dados: https://bityli.com/HrRlm**
+* **Mini projeto de análise de dados: https://urx1.com/ABhLL**
 
 ## Dashboards (Power BI):
 
