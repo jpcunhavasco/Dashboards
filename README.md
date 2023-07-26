@@ -4,7 +4,7 @@
 </p>
 
 # José Plácido
-<sub>*Assistente de BI</sub>
+<sub>*Analista de dados</sub>
 
 Hoje, atuo como analista de dados e na construção de dashboards usando python e Power BI. Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística e Negócios, com o objetivo de entender melhor como os dados se comportam e extrair informações valiosas deles.
 
