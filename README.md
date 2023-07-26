@@ -6,7 +6,7 @@
 # José Plácido
 <sub>*Assistente de BI</sub>
 
-Hoje, atuo com análise de dados e na construção de dashboards no Power BI e no Data Studio. Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística e Negócios, com o objetivo de entender melhor como os dados se comportam e extrair informações valiosas deles.
+Hoje, atuo como analista de dados e na construção de visualizações usando python e Power BI. Estou em constante busca pelo aprimoramento dos conhecimentos em Estatística e Negócios, com o objetivo de entender melhor como os dados se comportam e extrair informações valiosas deles.
 
 **Background in:** Python, Pyspark, Sql, Power BI, Excel.
 
