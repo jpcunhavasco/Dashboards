@@ -33,7 +33,7 @@ Veja os projetos publicados:
 * **Dashboard Vendas de Veículos: **
 * **Dashboard Visualização de Mapas: **
 *  **Dashboard Pokemon: https://bit.ly/44YnTgV**
-*  **Dashboard Ayrton Senna: **
+*  **Dashboard Ayrton Senna: https://bit.ly/3KfsXVH**
 *  **Dashboard Análise OTIF: **
 *  **Dashboard RH: **
 
