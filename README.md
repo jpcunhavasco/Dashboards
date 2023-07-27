@@ -23,9 +23,9 @@ Veja os projetos publicados:
 
 ## Dashboards (Power BI):
 
-* **Dashboard Faturamento: https://urx1.com/gyddT**
-* **Dashboard Alcance de Vendas por Cidade: https://urx1.com/pbuTI**
-* **Dashboard Vendas, Comparativos, Simulador, Cross Sell: https://l1nq.com/KKgym** 
+* **Dashboard Faturamento: **
+* **Dashboard Alcance de Vendas por Cidade: **
+* **Dashboard Vendas, Comparativos, Simulador, Cross Sell: ** 
 * **Dashboard Logística: https://tinyurl.com/u6dzwv7k** 
 * **Performance de produtos: https://tinyurl.com/ta83veun** 
 * **Dashboard de Estoque: https://tinyurl.com/w3nw3dsc** 
