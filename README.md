@@ -17,7 +17,7 @@ Hoje, atuo como analista de dados e na construção de dashboards usando python 
 ## Projetos:
 Veja os projetos publicados:
 
-* **Análise de Churn de clientes: https://l1nq.com/HAtRo** 
+* **Análise de Churn de clientes: ** 
 * **Pesquisa de preços: https://bit.ly/3hwA663** 
 * **Mini projeto de análise de dados: https://bit.ly/44HS6k9**
 
@@ -29,13 +29,13 @@ Veja os projetos publicados:
 * **Dashboard Logística: https://tinyurl.com/u6dzwv7k** 
 * **Performance de produtos: https://tinyurl.com/ta83veun** 
 * **Dashboard de Estoque: https://tinyurl.com/w3nw3dsc** 
-* **Dashboard Vendas e Devoluções: https://l1nq.com/zR3n7**
-* **Dashboard Vendas de Veículos: https://l1nq.com/FVG5m**
-* **Dashboard Visualização de Mapas: https://ury1.com/s9PY7**
-*  **Dashboard Pokemon: https://ury1.com/20qHT**
-*  **Dashboard Ayrton Senna: https://urx1.com/PEWts**
-*  **Dashboard Análise OTIF: https://l1nq.com/eOqyU**
-*  **Dashboard RH: https://urx1.com/1ZQPu**
+* **Dashboard Vendas e Devoluções: **
+* **Dashboard Vendas de Veículos: **
+* **Dashboard Visualização de Mapas: **
+*  **Dashboard Pokemon: **
+*  **Dashboard Ayrton Senna: **
+*  **Dashboard Análise OTIF: **
+*  **Dashboard RH: **
 
 
 ---
