@@ -25,7 +25,7 @@ Veja os projetos publicados:
 
 * **Dashboard Faturamento: **
 * **Dashboard Alcance de Vendas por Cidade: **
-* **Dashboard Vendas, Comparativos, Simulador, Cross Sell: ** 
+* **Dashboard Vendas, Comparativos, Simulador, Cross Sell: https://bit.ly/474LVYX** 
 * **Dashboard Logística: https://tinyurl.com/u6dzwv7k** 
 * **Performance de produtos: https://tinyurl.com/ta83veun** 
 * **Dashboard de Estoque: https://tinyurl.com/w3nw3dsc** 
