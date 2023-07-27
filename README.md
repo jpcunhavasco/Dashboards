@@ -31,7 +31,6 @@ Veja os projetos publicados:
 * **Dashboard de Estoque: https://tinyurl.com/w3nw3dsc** 
 * **Dashboard Vendas e Devoluções: https://bit.ly/44HSU8F**
 * **Dashboard Vendas de Veículos: https://bit.ly/3KEK5Vd**
-* **Dashboard Visualização de Mapas: **
 *  **Dashboard Pokemon: https://bit.ly/44YnTgV**
 *  **Dashboard Ayrton Senna: https://bit.ly/3KfsXVH**
 *  **Dashboard Análise OTIF: https://bit.ly/3Dy7i7u**
