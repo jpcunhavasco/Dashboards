@@ -30,7 +30,7 @@ Veja os projetos publicados:
 * **Performance de produtos: https://tinyurl.com/ta83veun** 
 * **Dashboard de Estoque: https://tinyurl.com/w3nw3dsc** 
 * **Dashboard Vendas e Devoluções: **
-* **Dashboard Vendas de Veículos: **
+* **Dashboard Vendas de Veículos: https://bit.ly/3KEK5Vd**
 * **Dashboard Visualização de Mapas: **
 *  **Dashboard Pokemon: https://bit.ly/44YnTgV**
 *  **Dashboard Ayrton Senna: https://bit.ly/3KfsXVH**
